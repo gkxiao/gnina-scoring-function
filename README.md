@@ -1,6 +1,14 @@
 <h2>Install gninatorch</h2>
-<p>https://github.com/RMeli/gnina-torch</p>
-<h2>Rescore</h2>
+<p>code:https://github.com/RMeli/gnina-torch</p>
+<p>manual: https://gnina-torch.readthedocs.io/en/latest/ </p>
+<h2>Run in score_only mode</h2>
+<p>1. create a index file (score.index) as following:</p>
+<pre line="1">
+receptor_1.pdb ligand_1.sdf
+receptor_1.pdb ligand_2.sdf
+receptor_1.pdb ligand_3.sdf
+</pre>
+<p>2.</p>
 <h2>Reference</h2>
 <ol>
    <li>Sunseri, J.; Koes, D. R. Virtual Screening with Gnina 1.0. Molecules 2021, 26 (23), 7369. https://doi.org/10.3390/molecules26237369.</li>
