@@ -8,7 +8,12 @@ receptor_1.pdb ligand_1.sdf
 receptor_1.pdb ligand_2.sdf
 receptor_1.pdb ligand_3.sdf
 </pre>
-<p>2.</p>
+<p>2.rescore</p>
+<pre line="1">
+python -m gninatorch.gnina \
+    score.index \
+    --cnn crossdock_default2018_ensemble
+</pre>
 <h2>Reference</h2>
 <ol>
    <li>Sunseri, J.; Koes, D. R. Virtual Screening with Gnina 1.0. Molecules 2021, 26 (23), 7369. https://doi.org/10.3390/molecules26237369.</li>
