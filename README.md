@@ -14,6 +14,8 @@ python -m gninatorch.gnina \
     score.index \
     --cnn crossdock_default2018_ensemble
 </pre>
+<h2>Case study</h2>
+<p>DUD-E EGFR subset : http://blog.molcalx.com.cn/2023/08/31/boosting-virtual-screening-enrichments-with-data-fusion.html</p>
 <h2>Reference</h2>
 <ol>
    <li>Sunseri, J.; Koes, D. R. Virtual Screening with Gnina 1.0. Molecules 2021, 26 (23), 7369. https://doi.org/10.3390/molecules26237369.</li>
