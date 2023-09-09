@@ -12,7 +12,8 @@ receptor_1.pdb ligand_3.sdf
 <pre line="1">
 python -m gninatorch.gnina \
     score.index \
-    --cnn crossdock_default2018_ensemble
+    --batch_size 200 \
+    --cnn default
 </pre>
 <h2>Case study: DUD-E EGFR</h2>
 <p>Blog: http://blog.molcalx.com.cn/2023/08/31/boosting-virtual-screening-enrichments-with-data-fusion.html</p>
