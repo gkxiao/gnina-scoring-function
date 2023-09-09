@@ -14,6 +14,7 @@ python -m gninatorch.gnina \
     score.index \
     --cnn crossdock_default2018_ensemble
 </pre>
+<img src='http://blog.molcalx.com.cn/wp-content/uploads/2023/08/2023083111293864.png' alt="CNN score use to boost the docking enrichment.">
 <h2>Case study</h2>
 <p>DUD-E EGFR subset : http://blog.molcalx.com.cn/2023/08/31/boosting-virtual-screening-enrichments-with-data-fusion.html</p>
 <h2>Reference</h2>
