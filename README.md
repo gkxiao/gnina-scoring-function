@@ -15,8 +15,8 @@ python -m gninatorch.gnina \
     --cnn crossdock_default2018_ensemble
 </pre>
 <h2>Case study</h2>
-<p>DUD-E EGFR subset : http://blog.molcalx.com.cn/2023/08/31/boosting-virtual-screening-enrichments-with-data-fusion.html</p>
-<img src='http://blog.molcalx.com.cn/wp-content/uploads/2023/08/2023083111293864.png' alt="CNN score use to boost the docking enrichment." width="500" height="500">
+<p>Dataset: DUD-E EGFR: http://blog.molcalx.com.cn/2023/08/31/boosting-virtual-screening-enrichments-with-data-fusion.html</p>
+<img style="text-align:center;" src='http://blog.molcalx.com.cn/wp-content/uploads/2023/08/2023083111293864.png' alt="CNN score use to boost the docking enrichment." width="500" height="500">
 <h2>Reference</h2>
 <ol>
    <li>Sunseri, J.; Koes, D. R. Virtual Screening with Gnina 1.0. Molecules 2021, 26 (23), 7369. https://doi.org/10.3390/molecules26237369.</li>
