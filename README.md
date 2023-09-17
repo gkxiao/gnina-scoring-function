@@ -21,7 +21,7 @@ python -m gninatorch.gnina \
 <img style="text-align:center;" src='http://blog.molcalx.com.cn/wp-content/uploads/2023/08/2023083111293864.png' alt="CNN score use to boost the docking enrichment." width="500" height="500">
 <h3>DUDE HIVPR</h3>
 <p>Blog: http://blog.molcalx.com.cn/2023/09/13/beware-of-the-benchmarking-test.html</p>
-<img style="text-align:center;" src='http://blog.molcalx.com.cn/wp-content/uploads/2023/09/2023091418453321.png' alt='Docking Virtual screening performane with different protein structure'>
+<img style="text-align:center;" src='http://blog.molcalx.com.cn/wp-content/uploads/2023/09/2023091418453321.png' alt='Docking Virtual screening performane with different protein structure'  width="500" height="390">
 <h2>Reference</h2>
 <ol>
    <li>Sunseri, J.; Koes, D. R. Virtual Screening with Gnina 1.0. Molecules 2021, 26 (23), 7369. https://doi.org/10.3390/molecules26237369.</li>
